@@ -9,6 +9,22 @@ context.stroke();
 
 function move(e){
   console.log(e.keyCode);
+  //left
+  if(e.keyCode==37){
+
+  }
+  //right
+  if(e.keyCode==39){
+
+  }
+  //up
+  if(e.keyCode==38){
+
+  }
+  //down
+  if(e.keyCode==40){
+
+  }
 
 }
 
